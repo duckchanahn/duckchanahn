@@ -6,8 +6,7 @@
 Refactoring 예정 순서 : Todo, InsuranceSystem, Operating System <br>
 
 <br>
-읽고있는 책 : 팀 개발을 위한 Github
-<br>
+읽고있는 책 : 팀 개발을 위한 Github <br>
 
 Notion : https://www.notion.so/0a88cc1258c54c2f8c0cd172a9f18375 <br>
 Velog : https://velog.io/@duckchanahn
