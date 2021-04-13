@@ -1,12 +1,6 @@
 
 
 ### Hi there 👋
-
-현재 개발중 : 점심 뭐먹지? (https://github.com/duckchanahn/Diary) <br>
-Refactoring 예정 : Todo, InsuranceSystem, Operating System <br>
-
-<br>
-
 Notion : https://www.notion.so/0a88cc1258c54c2f8c0cd172a9f18375 <br>
 Velog : https://velog.io/@duckchanahn
 
