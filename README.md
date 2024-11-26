@@ -3,11 +3,14 @@
 ### Hi there 👋
 ## 김상혁 Kim Sanghyuk
 
-<html>
-<a href="https://github.com/devxb/gitanimals?total-contributions=false">
-  <img src="https://render.gitanimals.org/farms/{duckchanahn}?pet-id=649139205844497897&contribution-view=false"/>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/duckchanahn?pet-id=649138129472844714&contribution-view=false"
+    width="600"
+    height="120"
+  />
 </a>
-</html>
+  
 
 <br />
 <br />
