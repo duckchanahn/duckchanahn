@@ -14,20 +14,15 @@
   
   
 
-<br />
-<br />
-<br />
 
 ## Award
 - **2024.08.20** 중소벤처기업부 주최 [벤처 스타트업 아카데미 해커톤 (서퍼톤)] 장려상 
 - **2024.06.28** 벤처 스타트업 아카데미 주최 [AWS 운영 과정 경진 대회] 2등
 - **2022.10.06** 카카오, 한국관광공사 주최 [2022 관광데이터활용 공모전] 장려상 
 - **2023** 충청북도 주최 [충청북도 공공데이터 활용 창업경진대회] 본선 진출
-<br />
-<br />
-<br />
 
 ## Experience
+- **2025.09~** (주)당근마켓 커뮤니티실 모임팀 HX파트 Backend Engineer 
 - **2021 ~ 2025** 주식회사 비즈팩토리 창업맴버 활동 (자사 쇼핑몰 개발 및 외주 개발 진행)
   - **2025** 양산시 [G-Space 혁신창업기업 액셀러레이팅 지원사업] 선정
   - **2024** 울산경제일자리진흥원 [울주 청년 창업 아카데미] 선정 
@@ -35,17 +30,10 @@
   - **2022** 한국관광공사 주최 [관광데이터활용 공모전] 장려상 수상
   - **2021** 한양대학교 [실전창업교육 1기] 선정
   - **2020** 서초구 자원봉사센터 [자원봉사 스타트업 아카데미] 2기 선정
-<br />
-<br />
-<br />
 
 ## certificate
 - **2025** AWS Solution Architect Associate
 - **2024** OPIc IL
-
-<br />
-<br />
-<br />
 
 ## Education
 - **2025** 카카오 테크 부트캠프 in Jeju 클라우드 과정 수료
@@ -60,8 +48,13 @@
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Exposed-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
+
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
